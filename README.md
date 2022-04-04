@@ -3,7 +3,6 @@
 - I interested in Machine Learning, image processing and Mathematics
 - Have some experience of web-development with Firebase
 - I can use HTML, css, javascript and python
-- 
 
 <!---
 T-musiz/T-musiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
